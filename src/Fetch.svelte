@@ -11,7 +11,7 @@
   });
 </script>
 
-{@debug data}
+<!-- {@debug data} -->
 <ul>
   {#each data as link}
     <li>
